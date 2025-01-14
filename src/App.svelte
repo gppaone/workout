@@ -101,7 +101,7 @@
     </div>
   
     {#if currentIndex < exercisesList.length}
-      <div class="text-center">
+      <div class="text-center text-slate-700 dark:text-white">
         <h2 class="text-4xl m-3">
           {isRest ? "Rest Time" : exercisesList[currentIndex].name}
         </h2>
