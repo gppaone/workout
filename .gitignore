@@ -3,7 +3,7 @@ public/
 src/
 *.json
 *.cjs
-*.js
+*.config.js
 *.html
 README.md
 .env
